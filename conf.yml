@@ -1,0 +1,19 @@
+---
+person:
+  name: "usman" # string key value pair
+  age: 25       # integer key value pair
+  is_male: true # bool key value pair
+  waight: 60    
+  lucky_number: # list of five integer 
+  - 9
+  - 19
+  - 24
+  - 23
+  - 20
+  programing_language: # A list of three object that include some key&value pairs 
+  - name: "c#"
+    released_year: 2000
+  - name: "python"
+    released_year: 1991
+  - name: "Java"
+    released_year: 1996
